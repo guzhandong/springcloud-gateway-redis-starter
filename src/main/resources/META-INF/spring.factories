@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.guzhandong.springformwork.gateway.route.config.AutoConfigRedisRouteRepository
